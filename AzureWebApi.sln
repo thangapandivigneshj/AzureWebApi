@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureWebApi", "AzureWebApi.csproj", "{D984A6A8-2082-46F1-99A7-3E3D6CB54534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D984A6A8-2082-46F1-99A7-3E3D6CB54534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D984A6A8-2082-46F1-99A7-3E3D6CB54534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D984A6A8-2082-46F1-99A7-3E3D6CB54534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D984A6A8-2082-46F1-99A7-3E3D6CB54534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39DB6131-3BCE-40B5-8526-5A0D1CF202AD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\AzureWebApi.exe
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\AzureWebApi.dll
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\AzureWebApi.deps.json
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\AzureWebApi.runtimeconfig.json
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\AzureWebApi.pdb
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Thanga pandi vignesh J\Microsoft Azure\AzureWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
