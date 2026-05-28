@@ -1,5 +1,6 @@
 using AzureWebApi.Services;
 using AzureWebApi.Services.Interfaces;
+using Azure.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -32,6 +33,10 @@ builder.Services.AddSwaggerGen(options =>
 });
 // Register services
 builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+builder.Services.AddApplicationInsightsTelemetry(new Microsoft.ApplicationInsights.AspNetCore.Extensions.ApplicationInsightsServiceOptions
+{
+    ConnectionString = builder.Configuration["APPLICATIONINSIGHTS_CONNECTION_STRING"]
+});
 
 var app = builder.Build();
 
