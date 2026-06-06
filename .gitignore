@@ -1,0 +1,32 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## Secrets — NEVER commit these
+secrets.json
+appsettings.Development.json
+**/secrets.json
+**/appsettings.Development.json
+
+## NuGet
+*.nupkg
+packages/
+.nuget/
+
+## Migrations (optional — most teams commit migrations)
+# Migrations/
+
+## Publish output
+publish/
+out/
+
+## Logs
+*.log
+logs/
+
+## OS
+.DS_Store
+Thumbs.db
